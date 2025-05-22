@@ -1,0 +1,5 @@
+name: BrilliantAntiSpamKick
+version: 1.0
+main: Rice.Chen.BrilliantAntiSpamKick.BrilliantAntiSpamKick
+api-version: 1.20
+folia-supported: true
